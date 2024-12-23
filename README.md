@@ -29,5 +29,9 @@ Simply input your style preferences and gender, and AI Stylist will:
 
 ## Demo
 
+![Alt Text](screenshots/demo1.png)
+
+![Alt Text](screenshots/demo2.png)
+
 
 
