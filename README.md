@@ -8,7 +8,6 @@ AI Stylist is your personal digital fashion companion, transforming the way you 
 - Personalized Style Matching
 - Gender-Specific Fashion Suggestions
 - Direct Product Links
-- Interactive Call-to-Action Buttons
 
 ## How It Works
 Simply input your style preferences and gender, and AI Stylist will:
@@ -18,19 +17,17 @@ Simply input your style preferences and gender, and AI Stylist will:
 
 ## Technologies
 - Python
-- AI/Machine Learning
-- Style Recommendation Algorithms
+- HuggingFace Inference endpoint for Mixtral-8x7B-Instruct-v0.1 model
+- SerpAPI
+
 
 ## Getting Started
 1. Clone the repository
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the application: `python app.py`
+3. Get a HuggingFace token & a SerpAPI key
+4. Run the application: `python app.py`
 
-## Vision
-Democratizing personal styling through intelligent, accessible AI technology.
+## Demo
 
-## Contributing
-Interested in fashion tech? Contributions are welcome!
 
-## License
-[Choose an appropriate license]
+
