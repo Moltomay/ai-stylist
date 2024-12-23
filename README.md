@@ -8,6 +8,7 @@ AI Stylist is your personal digital fashion companion, transforming the way you 
 - Personalized Style Matching
 - Gender-Specific Fashion Suggestions
 - Direct Product Links
+- Product images to help user in decision-making
 
 ## How It Works
 Simply input your style preferences and gender, and AI Stylist will:
@@ -31,7 +32,7 @@ Simply input your style preferences and gender, and AI Stylist will:
 
 ![Alt Text](screenshots/demo1.png)
 
-![Alt Text](screenshots/demo2.png)
+![Alt Text](screenshots/demo3.png)
 
 
 
