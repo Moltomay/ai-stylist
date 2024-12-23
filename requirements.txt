@@ -1,0 +1,8 @@
+flask==2.1.0
+transformers==4.18.0
+torch==1.11.0
+requests==2.27.1
+python-dotenv==0.20.0
+serpapi==0.1.4
+beautifulsoup4==4.11.1
+urllib3==1.26.7
